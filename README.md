@@ -213,6 +213,5 @@ MIT License
 
 ## Author ✍️
 
-**Name:** Your Name Here  
-**GitHub:** https://github.com/your-username  
-**LinkedIn:** https://linkedin.com/in/your-profile
+**Name:** Yekkaluri Anirudh  
+**LinkedIn:** https://www.linkedin.com/in/yekkaluri-anirudh-284183284/
